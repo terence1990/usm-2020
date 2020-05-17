@@ -17,9 +17,13 @@ The USM 98-88 EXE file has had its hashes edited according [this spreadsheet](ht
 
 # Getting the damn game working on a Mac
 
-* Use a Windows XP image
+## Virtual Machine
+
+* Use a Windows XP image, not 95/98 - XP is the smallest image you can get that still lets you easily connect to the internet via the host
 * Use the following image for VMWare: COMING SOON
 * Using the following image for Parallels: COMING SOON
+
+## Compatibility
 
 * Download Repo, put on your desktop or something
 * Boot up the XP image in VMWare or Parallels

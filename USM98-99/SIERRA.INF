@@ -1,0 +1,31 @@
+[Ident]
+ProductID = 69991
+Version = 2.00
+PatchVersion = 2.0.0.0
+ShortTitle = USM98-99
+UpdateAfter = 15-10-1998
+WebPage = http://www.ultimatesoccer.com
+StrippedDemo=0
+Readme = readme.txt
+
+[Demos]
+
+
+[Bookmarks]
+http://www.sierra.com = The Sierra Web Site
+http://www.education.com = The Education Web Site
+http://www.adventure.com = The Adventure Web Site
+http://www.netmarket.com/ref=cucsoftware = The NetMarket Web Site
+http://www.ultimatesoccer.com = Ultimate Soccer
+
+[System Test]
+ScreenWidth = 640
+ScreenHeight = 480
+Colors = 256
+MemKB = 15400
+WinVer = 395
+Wave = 1
+Processor= Pentium-90
+
+[Setup]
+InstallShield=1

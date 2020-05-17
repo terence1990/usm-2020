@@ -1,0 +1,340 @@
+/*  This template was created by Mantis-a [http://www.mantisa.cz/]. For more templates visit Free website templates [http://www.mantisatemplates.com/]. */
+
+
+
+/* CSS Document */
+
+
+/* General */
+
+* {
+margin: 0;
+padding: 0;
+}
+
+html {
+height: 100%;
+font-size: 62.5%;
+}
+
+body {
+height: 100%;
+width: 60%;
+text-align: center;
+font: 1.2em Verdana, Arial, Helvetica, sans-serif;
+background-color: #222222;
+color: white;
+min-width: 850px;
+padding-bottom: 80px; /* Simulates margin-bottom for wrapper in IE */
+}
+
+p {
+    width: 60%;
+    margin: auto;
+    text-align: justify;
+}
+
+a:link, a:visited {
+
+text-decoration: underline;
+font-weight: bold;
+}
+
+a:hover {
+text-decoration: none;
+}
+
+.cleaner {
+clear: both;
+height: 0;
+font-size: 0;
+visibility: hidden;
+}
+
+.noscreen {
+display: none;
+}
+
+
+/* Paragraphs, headings, ... */
+
+p {
+line-height: 1.9;
+margin-bottom: 7px;
+}
+
+p.text-content:first-letter {
+font-size: 1.4em;
+font-weight: bold;
+line-height: 0.9;
+color: #202020;
+font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+h1 {
+font: 2.6em  Georgia, "Times New Roman", Times, serif;
+background-color: #A71500;
+color: #FFFFFF;
+letter-spacing: 1px;
+border: 2px solid #FFFFFF;
+margin-top: 7px;
+padding: 6px 10px;
+}
+
+h1 a:link, h1 a:visited {
+font-weight: normal;
+text-decoration: none;
+color: #FFFFFF;
+}
+
+h2 {
+font: 2em Verdana, Arial, Helvetica, sans-serif;
+background-color: #007FFF;
+color: #FFFFFF;
+letter-spacing: 1px;
+border: 2px solid #FFFFFF;
+margin: auto;
+margin-top: 7px;
+padding: 6px 10px;
+width: 60%;
+}
+
+h3 {
+font: 1.7em Georgia, "Times New Roman", Times, serif;
+background-color: #7E9F35;
+color: #FFFFFF;
+letter-spacing: 1px;
+border: 2px solid #FFFFFF;
+margin: auto;
+margin-top: 7px;
+padding: 6px 10px;
+width: 60%;
+}
+
+h4 {
+font-size: 1em;
+background-color: #A71500;
+color: #FFFFFF;
+letter-spacing: 1px;
+border: 2px solid #FFFFFF;
+margin: auto;
+margin-top: 7px;
+padding: 6px 10px;
+width: 60%;
+}
+
+ul {
+width: 60%;
+margin: auto;
+text-align: left;
+}
+
+ul.circle {list-style-type: circle;}
+
+/* Site wrapper */
+
+#wrapper {
+width: 850px;
+margin: 0 auto 80px auto;
+position: relative;
+background-color: #FFFFFF;
+display: table; /* margin-bottom for FF   (?) */
+text-align: left;
+}
+
+
+/* Header */
+
+#header {
+margin: 0 auto;
+height: 157px;
+position: relative;
+background: #004E6C url('../img/header-bg.gif') repeat-x 0 0;
+border-top: 4px solid #480A00;
+border-bottom: 1px solid #CF492E;
+}
+
+#header-arrow {
+position: absolute;
+top: 0;
+right: 50px;
+background: url('../img/header-arrow.gif') no-repeat 0 0;
+width: 148px;
+height: 105px;
+}
+
+
+/* Menu */
+
+#menu {
+width: 850px;
+margin: 0 auto;
+background: #4A4A4A url('../img/menu-bg.gif') repeat-x 0 0;
+}
+
+#menu li {
+display: inline;
+list-style-type: none;
+}
+
+#menu li.first a {
+margin-left: 1.6em;
+display: inline;
+}
+
+#menu li a {
+float: left;
+color: #FFFFFF;
+font-weight: normal;
+text-decoration: none;
+font-size: 1.1em;
+line-height: 33px;
+margin: 0 0.5em;
+padding: 0 1em;
+}
+
+#menu li a:hover {
+text-decoration: underline;
+}
+
+#menu li a.active {
+font-weight: bold;
+color: #FFC6BB;
+}
+
+.cleaning-box { 
+min-height: 1px;
+}
+
+.cleaning-box:after {
+display: block; 
+clear: both; 
+visibility: hidden; 
+height: 0; 
+font-size: 0; 
+content: ' ';
+}
+
+.hidden { /* Skip menu */
+position: absolute;
+top: -10000px;
+left: 0;
+width: 1px;
+height: 1px;
+overflow: hidden;
+}
+
+
+/* Content boxes */
+
+#content-box {
+width: 100%;
+margin: 0 auto;
+color: #151515;
+position: relative;
+}
+
+#content-box-in {
+width: 100%;
+}
+
+.content-box-left {
+float: left;
+width: 625px;
+margin-bottom: 4em;
+}
+
+.content-box-right {
+float: right;
+width: 220px;
+margin-bottom: 4em;
+background-color: #FFF2EF;
+}
+
+#column-right-bottom {
+background: #DBF3FF url('../img/column-right-bottom.gif') no-repeat 0 0;
+width: 220px;
+height: 20px;
+}
+
+.content-box-left-in {
+margin: 0.4em 1.7em 0 2em;
+}
+
+.gallery {
+margin-top: 18px;
+}
+
+.gallery a img, .gallery a:visited img {
+margin: 0 11px 16px 0;
+border: 4px solid #EEEEEE;
+}
+
+.gallery a:hover img {
+border: 4px solid #FFA191;
+}
+
+.content-box-right-in {
+margin: 0.4em 1.6em 0 0.8em;
+}
+
+dt {
+font-size: 0.9em;
+font-weight: bold;
+}
+
+dd {
+line-height: 1.4;
+margin-bottom: 12px;
+}
+
+dd.heading, dd.heading a, dd.heading a:visited {
+margin-bottom: 1px;
+color: #D15900;
+font-weight: bold;
+}
+
+address {
+line-height: 1.5;
+margin-bottom: 7px;
+}
+
+
+/* Footer */
+
+#footer {
+background-color: #A01400;
+color: white;
+width: 850px;
+height: 34px;
+font-size: 0.9em;
+border-bottom: 2px solid #3F0800;
+}
+
+#footer a, #footer a:visited {
+font-weight: normal;
+color: white;
+}
+
+#footer p.left, #footer p.right {
+width: 400px;
+display: inline;
+margin-bottom: 0;
+line-height: 30px;
+}
+
+#footer a.b, #footer a.b a:visited {
+font-weight: bold !important;
+}
+
+#footer p.left {
+float: left;
+text-align: left;
+margin-left: 15px;
+}
+
+#footer p.right {
+float: right;
+text-align: right;
+margin-right: 15px;
+}

@@ -1,0 +1,1592 @@
+Help text file.
+
+# 0	-	main screen
+STADIUM SCREEN
+This is the main stadium view and gives you an indication of how successful your club is. Throughout the game playing the Manager option you can increase the stadium size and build more shops etc. In the Coach option the game will automatically increase the facilities if you progress well and increase attendances.
+
+
+In addition to the menu access options you can click on key buildings on the screen and go directly to their relative rooms. (Move the mouse cursor around the screen - Hot spot text will appear where a building can be accessed)
+
+
+Areas that can be accessed from the stadium screen are :
+
+
+Click on the Manager's office to access the Manager room
+
+Click on the Chairman's office to access the Chairman room
+
+Click on the pitch to access the Squad room
+
+
+Using the manager option you can also :
+
+
+Click on the Business office to access the Business room
+
+Click on the any stadium part to access the Ground Improvement screen
+
+Click on any bar, café, restaurant to access the Catering screen
+
+Click on any shop to access the Merchandise screen
+
+
+# 1	-	end of week panel
+MESSAGES PANEL
+The game is divided into time periods. This can be a week or a few days depending on the fixture list. After each time period a message panel will appear. This gives you details of any communications you have received. The panel has five types of communication on it.
+
+
+EMAIL - Any messages from the Football Authorities, player agents etc
+VOICE MAIL - Any messages from your assistant manager, chairman, coaches, scouts etc
+NEWSPAPER - Any un-read newspaper articles
+PHONE MESSAGES - Any messages on your "private" line
+NEGOTIATIONS - Any responses from other clubs on outstanding player deals.
+
+
+If any of the buttons on this panel are highlighted, it means that you have un-read information. Simply click on the button to go to the corresponding area. In that area you will see a RETURN button and an EXIT button. If after you have read your messages and you want to return to the messages panel click on RETURN. If not, select EXIT and you will return to the normal game screens.
+
+
+If you have no messages or press cancel, you will return to the teletext screen (to view last results).
+
+
+To move on through the weeks in the game, you need to click on the START icon. If you have a match to play, this match will be shown. If you don't have a game, you still need to click on START MATCH to move through the time periods to the next time you have a match.
+
+# 2	-	business screen
+BUSINESS ROOM
+All functions in the business room are only available when playing the Manager option. When using the Coach option these are automatically controlled by the game.
+
+
+Business room action hot spots are :
+
+
+ADVERTISING SIGN - Click here to view and accept advertising offers for stadium boards and magazine/programmes.
+
+
+TICKETS SIGN - Click here to maintain your ticket prices
+
+
+SPONSORSHIP BOARD - Click here to view/accept/reject sponsorship offers.
+
+
+BURGER BAR - Click here to maintain your catering prices
+
+
+SHOP - Click here to maintain your merchandise prices.
+
+
+ACCOUNTS - Click here to view accounts and access your finances to arrange loans, go public, apply for grants etc.
+
+
+For more help on these items click on the item on the screen and then select help.
+
+# 3	-	accounts panel
+ACCOUNTS 
+View your weekly or yearly accounts at a glance to see how well you are doing. The first section shows your total income, the second section shows your costs. 
+
+
+On this screen you can see your operating profit or loss. This is the profitability of your club without taking into account interest or transfers.
+
+
+Click on Print to print accounts.
+
+
+Click on Finances to enter the Finance screen.
+
+# 4	-	finance panel
+FINANCE
+Use this screen to raise extra finance for your club if you need to.
+
+
+LOANS -  If your cash flow is good enough you may be granted a loan, although you will be assessed as to your highest possible monthly repayment and maximum loan allowable which is calculated based on your club size and performance.
+
+
+OVERDRAFTS - If you have a short term cash flow problem, try an overdraft instead.
+
+
+GRANTS - If you are a small club and have terraced stands you can apply for a grant from the football trust who may provide you with cash to improve your stadium. Depending on how strapped for cash you are and how full your current stadium is, will determine whether or not you will receive a grant. 
+
+
+Large clubs with full seater stadiums cannot apply. If your application is successful , make sure you spend the money on your stadium - Failure to do so will result in the sack!
+
+
+GO PUBLIC - Many clubs now decide to go public and be quoted on the Stock Exchange. This option is only available to private limited clubs. Your playing performances and league positions will affect the recommendation on whether or not you should go public. 
+
+
+Please note that an initial floatation will generate a lot of cash but as a public company your costs will increase as a proportion of your profits will now be allocated on a weekly basis to shareholders.
+
+# 5	-	changing room screen
+SQUAD ROOM
+This is where the real work is done!  Everything you do here will affect how your team performs on the pitch. Action hot spots are :
+
+
+TEAM SELECTION - To select you team (Click on the football shirts).
+
+
+TEAM TALK - To set up your team tactics (Click on the blackboard).
+
+
+VIEW OPPOSITION - Take a look at your opposition (Click on the television).
+
+
+TEAM TRAINING -  Train your team's overall abilities (Click on the box of footballs).
+
+
+INDIVIDUAL TRAINING - Train individual players on individual abilities (Click on the cones).
+
+
+TRAINING STAFF - Employ coaches to help train your team and scouts to find new players (Click on the newspaper).
+
+
+INJURIES - View players who are injured (Click on the first aid box).
+
+
+FORMATION EDITOR - Create your own specialised formations (Click on the green board).
+
+
+ADVANCED TACTICS - For the football purist, create your own specialised in-depth tactics (Click on the files and folders)
+
+
+THE TUNNEL - Click on this to play the next match or move to the next time period if you do not have a match.
+
+
+For more help on these items click on the item on the screen and then select help.
+
+# 6	-	team selection
+TEAM SELECTION
+
+This is where it really matters. Choose your team carefully, your first team choice and your substitutes. Try to select a balanced side - your good tacklers at the back, good passing players in midfield and good shooting players up front.  The different coloured sections depict the different playing positions of the formation selected. 
+
+
+The first 11 players in the list will play. Position 12 down to the reserves section are your substitutes. (The number of substitutes varies based on which competition you are in).
+
+
+Clicking on any of the skill buttons along the top of the screen will remove the stat numbers and display a bar chart of that skill. (Click on the skill button again to clear). If you move your mouse cursor away from skill buttons when you are in bar chart view the skill heading will appear.  You can also click on a second skill once you have clicked on a first skill so that you can see more than one skill in bar chart mode at any one time.
+
+
+Menu options are :
+
+
+PRINT - Option to print your team list. 
+
+
+SORT PLAYERS  - This brings down an option panel where you can :
+
+
+Select  VIEW - Sort all players by stat to quickly see who are the best players in each stat category (this is a temporary sort) 
+
+
+Select SORT - This will sort all reserves by position and skills with or without injuries (This is a permanent sort).
+
+
+Select SORT MAJOR INJURIES - This will sort all reserves (that do not have major injuries) by position and then skills. (Reserves with major injuries will be sorted to the bottom of the player list).
+
+
+Select SORT ALL INJURIES - This will sort all reserves (that do not have any injuries) by position and then skills. (Any reserves with any injury will be sorted to the bottom of the player list).
+
+
+SWAP POSITION - To change a player's position, simply click on the player name and then click on SWAP POSITION button. The cursor will change to the name of the player. Then click this players name where you want him to go. The two players will change position.
+
+
+NOTE - You can also swap players very quickly by right clicking on one player and then left clicking where you wish to move him to.
+
+
+RECORD - Clicking on record will toggle between the player's stat details and details of their current performance which can be useful when selecting your team.
+
+
+VIEW - This allows you to view a player in detail. You can also update his contract and transfer list him from here. (See player file in Managers office section for more details)
+
+
+NOTE - You can view a  player's details very quickly by double clicking the left mouse button on his name.
+
+
+INJURIES - Click on INJURIES to see details of any player injuries and estimated injury times.
+
+
+TEAM TALK - Click on TEAM TALK to enter team talk screen. (See section on team talk)
+
+
+ASSISTANT MANAGER - The assistant manager will help with team selection, formation choice and training decisions if you need it.
+
+
+TRAINING - Click on TRAINING to enter Individual Training screen. (See section on individual training).
+
+
+LAST MATCH - Click here to view details of the last match you played.
+
+
+LAST MEETING - Click here to view details of the last time you played your next opposition.
+
+
+START MATCH/NEXT MANAGER - Click to begin the match or go to next manager if in multi-player mode.
+
+# 7		
+
+# 8		
+
+# 9		
+
+# 10	
+
+# 11	-	team talk
+TEAM TALK
+
+This is where you need to set up your playing style and tactics for the game. 
+
+
+The pitch on the left hand side shows the players in the positions you have selected in team selection. To move players around click once on any player name and then click once on the player you wish to swap him with.
+
+
+If the text on the pitch gets congested you can turn name and player position off by clicking on the button in the top left hand corner. 
+
+
+Select Captain - Click on this and then click on any player to select him as the captain.
+
+
+Defensive Free Kick Taker - Click on this and then click on any player to select him as the player to take defensive free kicks. These are free kicks which are awarded to you, in your half of the pitch. i.e. the end you are defending.
+
+
+Attacking Free Kick Taker - Click on this and then click on any player to select him as the player to take attacking free kicks. These are free kicks which are awarded to you, in your opponents half of the pitch. i.e. the end you are attacking.
+
+
+Select Corner Taker - Click on this and then click on any player to select him as the corner taker.
+
+
+Select Penalty Taker -  Click on this and then click on any player to select him as the penalty taker.
+
+
+If any of the above are left blank, the game will select its most likely choice during the match.
+
+
+Win Bonus - To raise your players desire to win - offer them a cash bonus to win. Be very careful with this. Over use will mean players will expect it and play no better any way and your cash reserves will diminish as player wages is the single largest cost you have. This is not available using the coach only option.
+
+
+Individual tactics - Select the Individual tactics button and then select the player you wish to apply specific tactics too. You can choose to push him forward, push him back, move to the left or right or a combination of these. (These additional directions will show up on the pitch as small arrows).
+
+
+For defenders you can also allocate an opposition player to be man-to-man marked. Select man to man and you will now be given a list of opposition names so that you know exactly who your man will be marking. Please note that your defender will only closely mark the opposition player when the other team are in possession of the ball. He will not man to man mark the player when your team is in possession of the ball.
+
+
+Offside Trap - If you wish to play the offside trap, then click on this button.
+
+
+Style - Choose either Attacking, Normal or Defensive styles. Selecting the Attacking option will make all players play further up the field and will also mean that midfielders and attackers do not come back to defend as often. Selecting the Defensive option will make all players play further back and players are much less likely to try and run with the ball into attacking positions, especially defenders.
+
+
+Long ball/Passing - Choose either a passing game or a long ball game. Using the long ball option, players (especially goalkeepers and defenders) are much more likely to try and pass the ball to another player much further up the pitch and thereby bypassing much of the midfield area. Using the passing option, all players are much more likely to pass the ball to a much nearer member of the team.
+
+
+Tackling - Choose either Hard, Normal or Soft tackling. Remember - hard tackling can result in more bookings, and perhaps injuries but you will probably win more tackles.
+
+
+Select Formation - Select any team formation you wish to use in your next match. (Formations can be created in the formations screen though there are several standard formations already available to you in the game).
+
+
+Select Move - Select pre-set moves you wish to use in your game plan. (Set moves are created in advanced tactics though there are some stock set moves already available to you).
+
+
+Select Set Piece - Select set pieces you wish to use in your game plan. (Set pieces are created in advanced tactics though there are some stock set pieces already available to you).
+
+
+Please note that set pieces and moves that you have selected in your team talk screen may not always be seen in the game. Players must be in the right position on the pitch in order for the tactic to be employed. Wherever possible you should only select set pieces and moves that have been created especially for the formation you are currently using.
+
+
+TEAM SELECTION - Click on this to return to the team selection screen.
+
+
+START MATCH/NEXT MANAGER - Click to begin the match or go to next manager if in multi-player mode.
+
+# 12
+
+# 13	
+
+# 14 
+
+# 15	
+
+# 16	 
+
+# 17	
+
+# 18	-	view opposition
+VIEW OPPOSITION
+
+This shows you details of your next opposition. You can go forwards and backwards using the Next and Prev buttons and look at opposition squads in fothcoming matches. This can be very useful when setting out your team tactics for the next few games.
+
+
+A list of players will appear together with the current form of the team.  Click on any of the players listed to see a more in-depth look at each player facing you in your next match.
+
+# 19	-	chairmans screen
+CHAIRMAN'S OFFICE
+
+This is where you need to go to report to your chairman. You should pay him frequent visits as he will almost always have something to say about each match you take part in. Action hot spots are :
+
+
+THE GRAPHS - Access to manager ratings and graphs
+
+
+OBJECTIVES NOTE - A note from the chairman on what he expects in the next game.
+
+
+TROPHIES - This builds into a history of who won what and when. Let's hope your team's name appears here!
+
+
+For more help on these items click on the item on the screen and then select help.
+
+# 20	-	sponsors
+SPONSORS
+
+At the beginning of the game you will receive messages from your chairman about possible sponsorship deals. You should go the sponsorship logo board in the business room when you receive this message or select sponsorship from the menu bar.
+
+
+You must decide whether to accept or reject the deal. The lower divisions may find it difficult to get a good deal, whilst the higher rated clubs will often have to turn down offers. Be careful when turning down offers. It may be a while before another comes along. Remember good cup runs and TV coverage will also increase your revenue.
+
+# 21	-	advertising
+ADVERTISING
+
+There are two forms of advertising open to your club - Ad boards around the stadium and pages in your match day program / magazine. The bigger your club, the more boards and pages you will have to sell. Click on the Stadium Boards/Magazines button to toggle between the two options.
+
+
+To select an offer,  click from any of the offers listed in the OFFERS list. This will now appear on the left hand side as a CURRENT advertiser. 
+
+
+Ad boards can be sold on season basis for all league games and on a match by match basis for home cup games. (In home cup games, all advertising revenue is kept by your club though 50% of attendance revenue goes to the other club.)
+
+
+Ad board advertisers will appear with real company logos in the match view stadium.
+
+
+If you do not wish to vet offers on a week by week basis, you can let your assistant take care of business by selecting the assistant on/off button. His choices may not always be as good as yours but at least the money will keep flowing.
+
+# 22	-	ticket pricing
+TICKET PRICING
+
+Prices are crucial to the level of support your club will receive. Too high and attendance will fall. Too low and you could be missing out on that much needed revenue. Remember to keep the prices low for friendlies and hike the prices up for a cup tie.
+
+
+For each type of stand you can enter a price for league (and friendly) games, cup games and season tickets. Only the type of stands your stadium has will be highlighted. Free school tickets will improve fan morale slightly but will also reduce revenue.
+
+
+The graphs at the bottom of the screen display the revenues and attendance for the club. Click on the arrows to toggle between the stadium as a whole and individual stand types. Press on any bar on the graph to view information on that particular game.
+
+# 23	-	stadium improvement
+STADIUM IMPROVEMENT
+
+Select the stand section you wish to improve by clicking on it. You can also scroll through the other stands using the stand selection arrows in the top right hand corner of the screen.
+
+
+Select the stand capacity arrows on the top left to increase the capacity. Click on the Seating/Terrace buttons to select stand type and click on the covered/uncovered button to add a cover.
+
+
+Note that you cannot reduce a stand size, change seating back to terracing or uncover a stand.
+
+
+You can also add executive boxes by clicking on the arrows left and right of the boxes text. (Please note that you cannot build boxes on corner stands).
+
+
+Below you will see how much cash you have available to you, how much the total improvement cost will be and how long it will take to improve.
+
+
+You can toggle through as many stands as you wish to make all the changes you want (remember not to improve too many stands at once or you will have no where for fans to go!)
+
+
+Corner sections will not be available until the two adjacent stands are large enough.
+
+
+Maintenance - This is a percentage of how well the stadium is being maintained.  (The cost figure below shows how much it costs to maintain your stadium on a weekly basis). This figure can be reduced if you are short of money and need to reduce costs. Be very careful when doing this as it will reduce your ground condition.
+
+
+Ground Condition - This currently shows the current condition of your stadium. If this falls much below 100% you could be in trouble. Parts of the stadium may fall into disrepair and possibly even collapse.  Raising the maintenance level to above 100% will improve the stadium condition back to mint condition.
+
+
+The bottom of the screen lists a summary of all changes requested. To make the improvement click on IMPROVE.
+
+
+If you make changes to a stand and then exit the screen without improving them, you will be prompted as to whether you wish to make these improvements or exit without improving them.
+
+# 24	
+
+# 25	-	building improvement
+IMPROVE BUILDINGS
+
+This screen is only accessible through the menu option. Click on the button below each building type to select which type of building to build. 
+
+
+You will now return to the main stadium screen with a new cursor. Position the building wherever you wish on the grey area to the bottom of the stadium.
+
+
+Left click with the mouse to select your desired position. (If you wish to place more than one building of the same type, move to a new position and left click again). When you are satisfied with the quantity and locations, RIGHT CLICK the mouse. You will now have the option to confirm or cancel. Building times will vary depending on their size.
+
+
+Demolish building - To demolish a building (for redevelopment etc), click on the button and then select the building you wish to demolish. (Certain buildings like the managers office, the chairmans office and the business room cannot be demolished.)
+
+
+Stats - Click on this button to see a summary of how many buildings you have.
+
+# 26
+
+# 27
+
+# 28	-	trophy cabinet
+TROPHY CABINET
+
+Click on any of the buttons at the bottom of the panel to see details of the winner and runners up in any one of the competitions.
+
+# 29	-	confidence ratings
+EVALUATION
+
+Your performance will be constantly evaluated by many different sources.
+
+
+Chairman - The chairman and the board will be looking for good performances (and good financial management if you are playing the Manager option).
+
+
+Financial - The bank will be looking for good financial management, not many loans and overdrafts and a healthy bank balance. (This rating does not apply when using the coach only option).
+
+
+Fan Morale - Fans want to see good performances, good cup runs, a safe stadium and do not like be overcharged for tickets and facilities.
+
+
+Player/Staff Morale - Players want good wages and bonuses and top players expect to play in the first team.
+
+
+Each of these sections will have a percentage score plus a text description of how they rate your performance.
+
+
+Click on the Graphs button on to see how well you have performed over the season in a graphical format.
+
+# 30	-	confidence ratings graphs
+EVALUATION GRAPHS
+
+Here you can see whether or not you are improving as the season continues in graphical format. Click on any of the buttons next to the coloured squares to toggle the graph lines on and off if you wish to see a clearer picture of one particular area.
+
+# 31	
+
+# 32
+
+# 33	-	merchandising
+MERCHANDISING
+
+Here you can maintain your prices for all merchandise items sold in your shops.
+
+
+You can decide to view all merchandise items from all outlets or from just one specific outlet by selecting any one of the buttons on the bottom bar.
+
+
+You can review the costs of items (which will rise with inflation) and alter the prices of any item and view total sales and profit of each item. Note that the cost and price of a single item will apply to all outlet types and not just the type you are currently viewing.
+
+
+As a general rule, prices should be set at approximately double that of the costs.
+
+
+By clicking on an item in the list you can view sales and profit on that particular item on the graphs in the top right corner.
+
+
+CHANGE MERCHANDISE ITEMS
+
+
+You can alter the items you sell in the stalls, small and large shops. (Make sure you have not got the All Outlets button selected). Click on the items in the top left corner (or on the shelf it there is no item there). You will now be presented with a panel which lists all items available. Click through the arrows left and right to replace or add a new merchandise item.
+
+# 34	-	catering
+CATERING
+
+Here you can maintain your prices for all food and drink items sold in your catering establishments. You can decide to view all catering items from all outlets or from just one specific outlet by selecting any one of the buttons on the bottom bar. You can also select a specific outlet by clicking on the four pictures in the top left corner.
+
+
+You can review the costs of items (which will rise with inflation) and alter the prices of any item and view total sales and profit of each item. Note that the cost and price of a single item will apply to all outlet types and not just the type you are currently viewing.
+
+
+As a general rule, prices should be set at approximately double that of the costs.
+
+
+By clicking on an item you can view sales and profit on that particular item on the graphs in the top right corner.
+
+# 35
+
+# 36	-	individual training
+INDIVIDUAL TRAINING
+
+Make sure you have enough coaches to fulfil your training obligations. (refer to the section on Training Staff to find out how to employ coaches). 
+
+
+As player skills rise, so does their value, so it is worth employing the best coaches available to you. Skills will take time to rise as training takes time so be patient, but also remember not to have a player doing the same training all season as they will become bored with it and not improve.  Remember that younger players (especially youth players) will improve much faster than older players. 
+
+
+Make sure that all injuries are treated straight away. Apply a coach to the fitness skill which  invariably reduces when a player is injured.
+
+
+Players Details - As with team selection you can click on the skills at the top to help you decide where your player's strengths and weaknesses are. 
+
+
+Be careful what you train the players on - There is no point training a striker on keeping!
+
+
+Selecting skill to train - Make sure you have employed some coaches. They will be listed on the left hand side of the screen.  To get a coach to train a player, click on the coach and then click on the number representing the skill of the player you wish to improve. The player skill you have clicked on will change to the same colour as the coaches name. To stop the coach training the player, simply click on the skill again.
+
+
+Notes - The Notes box will give you details of what each player is doing in terms of training.
+
+
+Intensity - Click on the intensity column on the far right of the screen to change the intensity of training. Be careful not to over train your players though.
+
+
+TEAM TRAINING - Click here to go to the team training screen.
+
+
+ASSISTANT - Click here to get your assistant to suggest a training plan for you.
+
+
+TEAM SELECTION - Click here to go to the team selection screen.
+
+
+INJURIES - Click here to go to the injuries screen.
+
+# 37	-	team training
+TEAM TRAINING
+
+To set up the training plan, simply click on any one of the training option boxes on the left of the screen and then click on the day and time of day you wish the team to train. 
+
+
+The "Individual"  box  means the players will train with whatever has been set up in individual training. The "Free Time" box means no training will take place. 
+
+
+Be careful not to over-train the players - make sure that they are not training every hour of every day. Any scheduled match will be placed in the team training week and no training is permitted on match days. Training for half a day, each day except match days will get the most out of your players. In the team training schedule, you should allow 4 or 5 hours a week for individual training. The purpose of team training is to improve your overall team's ability in a particular skill which means that during the match, the team is much more likely to take good corners, defend, attack etc as a team unit.
+
+
+Individuals - to return to the individual training screen, click here.
+
+
+Assistant Manager - Instead of handling the training work yourself, let your assistant decide on the team training plan. It may not be always be perfect, but it will save you time. 
+
+
+It is recommended that when first playing the game you allow the assistant manager to suggest the schedule for you. His suggestion may not be perfect but he will suggest a fairly balanced schedule covering most aspects of team training.
+
+
+Click on the Assistant Manager button and a plan will be displayed. Click yes to confirm this plan or adjust his plan by clicking on the boxes. 
+
+
+The Training Camp 
+
+For really serious training, you can decide to take your team on a training camp for a few days.  Click on the Training Camp button to set the trip up.
+
+
+Remember each of the options will affect how much the cost of sending the players will be. You can also decide whether to take the first team only, reserves only or the entire team. 
+
+
+Purpose of trip - You wish to take the players for a well earned rest after a long season or instigate some intensive training before a major game. Choose between leisure, intensive or Timetable. (Timetable being your standard training schedule as seen on the left of the screen). Intensive training will mean that your players will improve faster but morale will drop. Leisure training will improve fitness and morale only.
+
+
+
+Arrange - Click on arrange to confirm the trip.
+
+# 38
+
+# 39
+
+# 40
+
+# 41	-	buy coaching staff
+COACHES/SCOUTS
+
+
+No manager can run a team on his own so it is very important to have the right staff around you. Use this screen to employ coaches and scouts. 
+
+
+Existing Staff shows you what staff you have currently employed.  Click on the name of any of your current staff to update their contractual details. You can now choose to change their wages, fire them or offer them a new contract.  Note that if you fire a coach you will have to pay off his contract.
+
+
+Available Staff shows you what staff are currently available to you. To employ a new member of staff, click on the name of the person you want and then click on HIRE. Remember you can only hire up to six coaches at any one time.
+
+
+Scouts are used for finding players - refer to the shortlist section for more details.
+
+
+Coaches are used to individually train players. Every coach has special abilities. In brackets there is a list of what he can train well. General coaches are experts at all training, Midfield coaches are experts at passing and ball control, Attacking coaches are experts at shooting, Fitness coaches are experts at fitness, pace and stamina, Defending coaches are experts at tackling and Keeping coaches are experts at keeping. Coaches can train skills that they are not experts at but at a lower rate.
+
+
+Superb coaches will train players at a faster rate (More than twice the rate of an average coach and more than 50% the rate of  a good coach). Average coaches are also much slower at training skills over 60. Good coaches are much slower at training skills over 80. All coaches are happy to train up to 10 players at a time.
+
+# 42
+
+# 43
+
+# 44
+
+# 45	-	injuries
+INJURIES
+
+Football is a physical sport and player's often become injured. This can be during a match or even when training. Injuries in the game fall into two categories, Major and Minor. Major injuries mean that his fitness stat will fall dramatically and the player will out of the game for some time. Training his fitness stat will have no effect to start with as the player is effectively so badly injured he will not respond. The player will need time to recover from his injury.  (Each club has a permanent physiotherapist who will help players recover). The injury panel in the squad room will tell you how he is progressing.  When the player has recovered from the injury he can then now be trained back to full fitness. 
+
+
+If a player has a minor injury he can be trained back to fitness immediately and a fitness coach should be applied to his fitness skill.
+
+
+Remember that employing better training coaches will reduce the amount of time it takes a player to return to full fitness.
+
+
+INJURY  LIST
+
+
+Click on the first aid box to access this screen or access in from the menu bar. This will show you a list of all the players that are currently injured. It will list details on what the injury is and how long it will take for them to return to fitness. This can be very important when deciding on whether to bring in loan players to help a possible injury crisis.
+
+# 46	-	arrange friendly
+ARRANGE FRIENDLIES
+
+Click on ARRANGE FRIENDLIES to arrange pre-season friendlies. At the start of the season, you can arrange up to four pre-season friendly matches. Select the division and select a suitable team. Click on the date and whether the match is home or away. Please note that you cannot play friendlies against teams in the same division as you.
+
+# 47	-	phone
+
+MOBILE PHONE
+
+This phone is used for the more shadier side of your business. Use it ensure victory or increase your cash. The majority of people in the league are scrupulously honest, so be very careful about who you offer money to. If you go too far you could not only lose your job but your liberty also!
+
+
+Phone options are :
+
+
+a)	Rig Match - If matches are not going your way and you really need a win, then as last resort you can offer the opposing team a large cash incentive to lose. Choose the amount you wish to offer and click on OFFER. If the club accepts the money, then your chances of winning increase. Beware - this does not mean that you will always get the result you want.
+
+
+b)	Offer Bung - If you are having problems signing the player you want, it may be beneficial to offer the player's manager a large bung to persuade him to change his mind. Choose the club to make the offer to and the amount of the bung. If the club accepts, the chances of him now accepting an transfer bid will increase.
+
+
+c)	Place Bet - Highlight your betting option and insert the amount of money you wish to bet.
+
+
+d)	News on bets - These are messages from your bookmaker.
+
+# 48	-	fixture list
+FIXTURE LIST
+
+This lists all your team's fixtures for the season. Click on a team (in a fothcoming match) to view the opposition. If a match has been played the details of that match will appear if you clik on it. The number in brackets after a team, depicts its current league position. Letters in brackets depicts which nationality the team is.
+
+
+Click on OTHER TEAMS to view details of other teams fixtures.
+
+
+Click on PRINT to print your fixture list.
+
+
+Click on ARRANGE FRIENDLIES to arrange pre-season friendlies. At the start of the season, you can arrange up to four pre-season friendly matches. Select the division and select a suitable team. Click on the date and whether the match is home or away. Please note that you cannot play friendlies against teams in the same division as you.
+
+# 49
+
+# 50
+
+# 51
+
+# 52
+
+# 53
+
+# 54
+
+# 55
+
+# 56	-	manager screen
+MANAGER'S OFFICE
+
+
+This is your office, where you will need to carry out most of your managerial duties. Action hot spots are :
+
+
+FILING CABINET  - Information and player contracts
+
+
+PHONE (VOICEMAIL) - Internal club communications
+
+
+COMPUTER (EMAIL) - External communications
+
+
+NEWSPAPER - Match reports and news stories
+
+
+SEIRRATEXT - Complete information service for the entire league
+
+
+VIDEO - View video highlights
+
+
+PRINTER - Print team lists etc
+
+
+FIXTURE LIST - View all teams fixtures and past results
+
+
+MOBILE PHONE - For those "secret" phone calls
+
+
+SCRAP BOOK - Save all those historic newspaper reports
+
+
+For more help on these items click on the item on the screen and then select help.
+
+# 57	-	player file
+PLAYER FILE
+
+This lists details on the entire squad. There are four different sets of information on this screen (default is contract).
+
+
+CONTRACT - This shows the players current value, his weekly wages, his contract length (in weeks) and his contract status. (This will say listed when he is transfer listed).
+
+
+SKILLS - This lists the player's skills, fitness and their age. (Skills are explained in more detail in the PLAYERS help section.
+
+
+APPRS - This lists the player's appearances in all games (substitution appearances in brackets), plus any goals, goal assists, man of the match awards, his overall performance rating (out of 100) and his morale.
+
+
+DISCIPLINE - This lists how many disciplinary points the player has accumulated together with how many red and yellow cards he has received. The Current status column will list any details on current bans the player is serving and in which competitions.
+
+
+Clicking on any player's name will take you to the Player Information file which will provide details on the player in much more detail. (See help on Player Information for more details). 
+
+
+# 58	-	player info
+PLAYER INFORMATION
+
+Clicking on any player from almost anywhere in the game will bring up this panel. This panel is divided into two main areas 
+
+
+DETAILS - This lists details of his preferred position & his skills, his contractual details with the club plus any bonuses, and general information on his age, date of birth, nationality, morale, aspirations and a general description of the player's abilities.
+
+
+HISTORY - This lists in detail (from when the game starts) his appearances, goals, discipline etc divided into the various competitions. His current season will be displayed into the top right hand corner and below this will appear all previous season's details. The bottom right hand corner lists the players transfers history up to joining the club. (As transfers occur within the game, this will be updated).
+
+
+If you are viewing one of your players, there are three options on this screen :
+
+
+New contract - when you wish to offer the player a new contract, click here to negotiate.
+
+
+Transfer list - If you wish to place a player on the transfer list click here and then press SET to set his transfer fee. (If you are short of cash you can fastsell your player. He will be sold immediately but at a greatly reduced amount). 
+
+
+Not For Sale - Throughout the game, you maybe approached by other teams who wish to buy your players. If you never wish to sell a particular player you can tag him here as unavailable and you will not receive approaches for this player.
+
+# 59
+
+# 60
+
+# 61	-	club file
+CLUB FILE
+
+This lists all the club's details for the current season and what they have achieved so far in all competitions. The bottom section lists their current record since the game began.
+
+
+GRAPH and TRANSFER buttons also exist if you are viewing your own team.
+
+
+Click on GRAPH to see how your team has progressed in the league this season. 
+
+
+Click on TRANSFER to see details of all your clubs transfer dealings. The top section displays the clubs record transfers in and out.
+
+
+Click on OTHER TEAMS and then on any other team to see details on that particular club.
+
+# 62
+
+# 63	-	manager file
+MANAGER FILE
+
+This is your personal record over the years of how well you have done as a manager. 
+
+# 64	-	history file
+HISTORY FILE
+
+This displays historical details of your club. General details, the club's best ever performances in all competitions and all league, cup and European honours achieved. As the game progresses, additional honours and any records broken will be updated here.
+
+# 65
+
+# 66	-	player search
+
+PLAYER SEARCH 
+
+Player search allows you to find just the right player for you. Every player across the six leagues is listed here plus many more European and World players. There are extensive search criteria allowing to find exactly the right player very quickly. The criteria are :
+
+
+Sorting - You can sort by any number of criteria to place the players in the order you wish.
+
+
+Positions - You can choose to view just one particular type of player. e.g. defenders only.
+
+
+Leagues - You can choose to view players from all leagues or just one.
+
+
+Divisions - If you have selected one league only to view you can also decide to look at just one division.
+
+
+Contracts - You can choose to view only transfer listed players or players with short contracts.
+
+
+Squad - You can choose to look at first team players or just reserve players.
+
+
+Scout Suggest - In addition to the above, click on this button and your head scout will determine which of the players you have in the list may be useful to you. (He will remove all players who are too good or not good enough for your team).
+
+
+You can also set an age range and value range of players that you wish to look at.
+
+
+SKILLS - You can also select ranges for each skill by clicking on skills and then setting a lower and upper limit for each skill.
+
+
+Reset - Within one time period the players you have chosen to look at will remain the same. When a time period passes the player search screen will revert back to listing every player. You can do this yourself at any time by clicking on the RESET button which sets all criteria back to all.
+
+
+The options on this screen are :
+
+
+APPROACH - Click here if you wish to approach the club to buy the player.
+
+
+LOAN - Click here if you wish to approach the club to loan the player.
+
+
+VIEW - To view the players in more detail. (You can also approach player from here)
+
+
+SKILLS / DETAILS - You can toggle between the players skills and his contract details.
+
+
+SHORTLIST - You may not be sure whether the player will be suitable or not. Click on this button to short list the player. 
+(Go to short list help for more details). 
+
+
+You can scroll through the player search list very quickly by right clicking on the arrows which will scroll a full page at a time.
+
+
+
+# 67
+
+# 68
+
+# 69	-	current negotiations
+CURRENT NEGOTIATIONS
+
+During the buying and selling of players, and the loaning in and out of players, all negotiations are listed on this screen. The top half of the screen will list all details of players you are trying to buy and loan in , the bottom half will list all details of players other teams are trying to buy or loan from you.
+
+
+On the left is listed the player concerned. Underneath this is a text description of what status the negotiations have got to. On the right there are two buttons that can appear. The REPLY button will appear when a response has been received from either the club or the player's agent.  Whenever this button appears you should immediately click on it and read the reply. (Refer to the buying players section for help on what to do with negotiation faxes).
+
+
+The DROP button is a quick get out - simply click on this to end the negotiations.
+
+# 70	-	You sell players
+SELLING PLAYERS
+
+To sell a player you can access the sell players panel and place him on the transfer list. (You can also unlist him if he is already transfer listed and view his details).
+
+
+You can also place him on the transfer list by clicking on his player information screen and click on the transfer list button. (If you wish you can select FASTSELL players from this screen which will sell him immediately but at a greatly reduced amount).
+
+
+Once on the transfer list, you will receive offers from clubs. You may also receive offers from clubs even if the player is not on the transfer list. (Though you can prevent this by clicking on the NOT FOR SALE button in the player information file).
+
+
+Selling players is very similar to buying players except that everything is in reverse. You will receive offers from clubs which you can reject, consider or set a fee for the player. The club will then accept, reject or re-negotiate with you. If you both agree on a deal then it will be up to your player to decide. Your player may decide that he does not want to go to the club or cannot agree terms in which case he will remain with your club even though you had agreed a deal.
+
+# 71	-	You loan players
+LOANING PLAYERS OUT
+
+Accessing  the LOAN PLAYERS screen will allow you to loan list a player. You will now receive offers from clubs wishing to take your player on loan. You may also receive loan requests even though the player is not on your loan list.
+
+
+You will receive requests from clubs and all you need to do is agree on the number of weeks the player will go on loan for. Once this is agreed the player will go immediately.
+
+
+Loaning out players is a great way of improving the morale of players who are not getting many first team appearances as they get to play for other teams. Their wages are also paid by the club who takes them and they will also gain valuable match experience.
+
+
+# 72	-	shortlist
+SHORTLIST
+
+On the short list screen you can see a list of players you have short listed at the top and a list of players currently in your team at the bottom. If any player you have shortlisted is approached by another club you will automatically be informed by a message on your voice mail and be able to enter the bidding for the player.
+
+
+COMPARE
+
+
+This is the default when entering this screen. You can click on the skill buttons on both player lists in the same way that you can on team selection and compare the bar charts of both sets of players. This will help you to decide whether the players you have shortlisted are as good as your current players.
+
+
+SORT - You can also sort both sets of players by skills. Click on Sort and then the skill to sort.
+
+
+BUY - You can approach a club to buy a player by selecting the player from the list and then selecting BUY.
+
+
+LOAN - You can approach a club to loan a player by selecting the player from the list and then selecting LOAN.
+
+
+REMOVE - This will remove the player from your short list.
+
+
+SCOUTS
+
+
+Click on the player you wish to scout and then click on the SCOUT button. This will bring up a new bottom panel listing all scouts available to you. Click on APPLY SCOUT to apply the scout to the player. UNAPPLY will un-apply him. 
+
+
+If you do not have enough scouts you can click on EMPLOY SCOUTS and go to the Coaches/Scouts (Training staff) screen, employ a scout and then return. Once a scout has been applied he will watch the player for you.
+
+
+PROGRESS
+
+
+After a number of weeks, your scout will have produced a report listing how well the player has performed and he will also make a recommendation on whether you should buy this player.
+
+
+PLEASE NOTE - Scouts do not always get it right. The better the quality scout, the greater  chance that he will be right about the player. If the player is a youth player the scout will try to establish whether the player will develop into a player that would be useful to the team. If the player is over 20 he will try to decide whether the player would be any good in the team now.
+
+
+Clicking on the COMPARE button will return to the screen listing your short listed players and your own squad.
+
+# 73	-	newspaper selection screen
+
+NEWSPAPER
+
+The newspaper will always be available to be read from the managers office. When there are unread news stories , you will be prompted with the end of week panel.
+
+
+The newspaper is divided into the following sections :
+
+
+MATCH REPORTS - This will give a brief description of any match that your team has been involved in as well as any important cup final results.
+
+
+TRANSFER NEWS - This will list any transfer deals you have been involved in together with news on any major transfers involving other teams.
+
+
+SPORTS BAG - This will contain letters from your fan club/supporters club if you are playing particularly well or badly.
+
+
+OTHER NEWS - Other stories such as injuries, broken records etc involving your team and others will appear here.
+
+
+When there are unread articles in any of the above categories, a large red ring will appear on the newspaper showing you where the article is. Click on the red ring to read the article.
+
+
+RESULTS / TABLES - These are permanently available to be read and can be accessed by simply clicking on them.
+
+# 74	-	newspaper
+NEWSPAPER ARTICLES
+
+If there is more than one article, the next button will appear, click on "Next" to see the next article. If you wish to save an article click on the "Add to scrapbook" button. This will now save it in the scrapbook.
+
+# 75	-	scrapbook
+SCRAPBOOK
+
+Click on the scrapbook to re-read previously saved news items and delete them if you wish.
+
+# 76
+
+# 77
+
+# 78	-	email messages (was fax messages)
+EMAIL
+
+This is where you receive messages from external sources. i.e. Player agents, the FA etc.
+
+
+If the next button appears it means that there is more than one message. Click on the next button and read all messages until the return button appears which will return to the messages panel or Sierratext if there are no outstanding messages. Exit will exit to the manager screen.
+
+
+Click on SAVE if you wish to save an email message for reference later. Clicking on ARCHIVES will access all saved messages, giving you the option to re-read or delete them.
+
+# 79
+
+# 80	-	voice mail (was notice board message)
+VOICEMAIL
+
+This is where you will receive messages from internal sources. I.e. The Chairman, scouts, coaches etc. Some are merely informative messages but be careful as many of them will require action as they will be informing you of a problem.
+
+
+If the next button appears it means that there is more than one message. Click on the next button and read all messages until the return button appears which will return to the messages panel or to the Sierratext screen if there are no outstanding messages. Exit will exit to the manager screen.
+
+
+# 81	-	video highlights
+VIDEO HIGHLIGHTS
+
+This is where you can view any video highlights you stored when viewing the match and using the instant replay option.  All instant replays stored will be contained in one match file. Click on the video highlight file you wish to view and press play. You can also delete the highlights if you no longer wish to keep them.
+
+# 82	-	start match screen (tunnel)
+START MATCH TUNNEL
+
+Click on the tunnel in the squad room or select START MATCH from the menu bar to begin a match or move on to the next time period if you do not have a match. If you have a match, you will now enter the tunnel that leads onto the pitch. You have three options -
+
+
+START MATCH (tunnel opening) - To start the match
+
+
+INSTANT MATCH (Door to the right) - that will play the match immediately if you do not wish to view it)
+
+
+CANCEL (Door to the left) - to return to the squad room.
+
+
+Click on START MATCH to enter the pitch view. 
+
+# 83
+
+# 84
+
+# 85	-	advanced tactics
+ADVANCED TACTICS
+
+
+This is only for the experts! We suggest that you become very familiar with team talk and formations before using this screen.
+
+
+There are three main sets of tactics that you can create from here. 
+
+
+DEFEND / ATTACK POSITIONS
+
+
+This section allows you to further refine a user-created formation by actually changing player positions on the pitch, depending on where the ball is and whether you are attacking (in possession of the ball) or defending (trying to get the ball).
+
+
+When you move a player to a new position in the formations screen, the game automatically decides where the player will be during the match. These are pre-defined positions created by the game designers. What this section allows you to do is to alter these pitch positions to wherever you want them to be.
+
+
+When you do this and actually change the player's positions you will need to create a whole new formation file (or over-write a formation you have already created).
+
+
+There are 34 different places a player can be directed to based on what is taking place on the pitch :
+
+
+1)	Attacking (in possession of the ball) and the ball is positioned in any one of the 12 squares seen on the pitch on the advanced tactics screen.
+
+2)	Defending (not in possession) and the ball is positioned in any one of the 12 squares seen on the pitch on the advanced tactics screen.
+
+3)	Attacking in 5 set plays (Left corner, Right corner, Goal kick, Kick Off and Penalty).
+
+4)	Defending in 5 set plays (Left corner, Right corner, Goal kick, Kick Off and Penalty).
+	
+
+3) and 4) are represented by the five boxes below the pitch itself.
+
+
+Click on either the ATTACK POSN or DEFEND POSN button to decide which player positions to update.
+
+
+On the screen there is a white ball (It's default position is in the kick-off box below the pitch on the left). You move the white ball by clicking on it and then moving the ball to any one of the 12 positions on the pitch or to one of the other four boxes below and then clicking again. (You can also right click to quickly place the ball on the pitch or to quickly place the ball in one of the five squares).
+
+
+As you place the ball in any of the squares you will see that the 11 players on the pitch will move to a new position. These are the positions that your players will attempt to be in at that particular time in the game. To re-position the players, simply click on the player and move him to where you want him re-positioned and click again to place him there. Remember not to move the player too far as he may not be able to get there in time.
+
+
+You can move any number of the players to anywhere on the pitch and change player positions in as many of the set-play squares and the pitch squares as you like.
+
+
+If you have moved any player position on any square, you will need to save the formation. Click on save as (if new) or save (if changing an existing one) and type in the name of the formation. Remember that this will save all the new player positions from all the squares for attack and defend positions so you only have to save once after you have made all you player positioning changes.
+
+
+On the right hand side we have also listed who your current team is which may help when deciding where to place players.
+
+
+TRAILS - Trails is very useful for seeing where your players will run when a ball is moving. When you are positioning your players for the positions in open play, you can not only see where the players are positioned when a ball is in a particular square but also what path the players will take when the ball moves from one square to another.
+
+
+To see player trails, click on the trails button. Now place the white ball on any square on the pitch. You will see the players move to their respective position, If you now pick up the ball and move it to another square on the pitch to depict that the ball has now been passed to this area. You will see that not only have the players moved to their new positions but there is now a line showing what path they took to get there.  If you now move the players positions on the field, you can alter the path they take also.
+
+
+COPY / PASTE - If you are making a lot of player position changes, you can click on COPY to copy all 11 players positions and then PASTE them in a new position.
+
+
+MOVES and SET PIECES
+
+
+Moves and set pieces are essentially the same except that moves are initiated whilst your team is in possession and the ball is in motion and set pieces are initiated when the play has been halted. This can be for a corner, free kick, offside, goal kick or kick off.
+
+
+MOVES
+
+
+When you have possession of the ball in any area of the park you can design a set move that you want your team to perform. You can choose any of the 12 squares on the pitch (or the goal kick or kick off boxes) in which to start your move.
+
+
+Move the white ball to anywhere on the pitch (Attack Posn) or click on Attack Goal Kick or Attack Kick Off.  Then click on MOVE.
+
+
+Your mouse cursor will change to SELECT FIRST MAN. Click the first man to be in possession of the ball when the move starts. The cursor willl now change the SELECT MEN INVOLVED. Click on all the players you wish to include in the move. All players involved will now be highlighted. Then click on the little gold arrow to the right of the current step box to start your move (or right click).
+
+
+The panel to your bottom left will now say Current Step 1/1. You can create as many steps in the move as you wish. If you make a mistake, you can delete the whole step by clicking on delete and you will move back to the previous step.
+
+
+You have five options available to you.
+
+
+Move - To move a player to a new position, click on MOVE and then on the player you wish to move. Move the mouse to where you wish to move the player to and click again. A line will be drawn indicating where the player will run to. Remember not to move the player too far as he may not be able to get there in time.
+
+
+Pass - To pass the ball to another player, click on PASS and then click on the player you wish to pass the ball to.  (If you select a player to pass to who has already been selected to move, the ball will be passed to where the player is running to). i.e. into space.
+
+
+Dribble - To select a player to dribble with the ball, click on dribble and then move the mouse to where the ball should be dribbled to. A line will automatically be drawn from the player with the ball to where you want the ball dribbled to.
+
+
+Wait - Players can be told simply to wait whilst other players have instructions for that step. All player instructions will default to wait unless otherwise instructed.
+
+
+Shoot - When you are close enough to the goal, you will have the added option to shoot. Click on SHOOT. A line will automatically appear from the player with the ball to the goal.
+
+
+Once you have selected what each player should do in the set-up, you can move on to the next step in the move. Click on the right hand arrow to move to the next step (click on the left hand arrow to move back one step).
+
+
+Undo - if you make a mistake on a step, click on undo to undo the last player instruction selected. Undo All will undo all changes you have made in a step.
+
+
+Once you are happy with your move, click on save as or save and give your move a name. Your move will now be available for selection in your team-talk screen.
+
+
+
+SET PIECES
+
+
+Customised set pieces can be used when you receive a free kick in any area of the pitch. Click on SET PIECE and your mouse cursor will turn into a small box, position your new cursor anywhere on the pitch and click.  Your cursor will now change to SELECT FREEKICK TAKER. Click on the player you wish to take the free kick. Your cursor will now change to SELECT MEN INVOLVED. Click on all the players you wish to include in the set piece. Then click on the little gold arrow to the right to start your set piece.
+
+
+The instructions are now exactly the same as explained in the moves section.
+
+
+There are included in the game a number of moves and set pieces already. These are there to give you some idea of what you do. Though they are included you can edit them and delete them if you wish.
+
+
+Applies to Positions, Moves and Set Pieces
+
+
+Names Button - To see the players names from your currently selected team, on the pitch, click this button.
+
+
+Opposition - You can also place on the screen, opposition formations so that you can see how to combat them. Click on Set Opposition Formation and choose the formation of your opponent. You can now click on Show Opposition to place the opposing team on the pitch
+
+
+New - If you want to start all over again , press the NEW button.
+
+
+Load - If you want to load an existing move, formation or set piece, click on the LOAD button. Click on FORMATION, MOVE or SET PIECE to choose the tactic type you require. Click on the one you require. Click on LOAD to load or DELETE to delete.
+
+
+EXIT - Iy you have made some changes to player positions or half started work on a move or set piece and have not saved it and have selected exit, the game will prompt you as to whether you wish to save your changes first.
+
+# 86
+
+# 87	-	formation editor
+FORMATION EDITOR
+
+The game contains a number of preset formations for you to choose from. In addition to these, you can create your own specific formations. To create a new formation, select NEW. This will load up the 442 STD formation.
+
+
+Now simply click on the player's numbers on the pitch and move them to their new locations. (Two players cannot occupy the same position).
+
+
+When you have made all the changes you require, simply save the formation by clicking on SAVE AS. Please note that you cannot save over any preset formation supplied in the game. You must use the SAVE AS button. SAVE can only be used when changing a formation created by yourself.
+
+
+You can use LOAD to load in one of your formations to change or to load a preset formation , make changes to it and then save out as a new formation.
+
+
+UNDO will undo your last movement, whereas UNDO ALL will undo all changes you have made before saving.
+
+
+NAMES will toggle names on and off the pitch.
+
+
+The chart on the right hand side is used to help with your formation creation. The formation position column shows what player position this is in the formation. The player position column shows what the player's actual best preferred position is. By comparing the two columns and having names turned on you can see whether your players are playing in their absolute best positions or not.
+
+
+For each player position on the pitch the computer will work out what it considers to be the best positions for the player to occupy during the match depending on where the ball is and who is in possession. (These default player positions can be altered in Advanced Tactics).
+
+
+
+
+# 88
+
+# 89	-	file screen (carpark!)
+FILE
+
+This is the system part of the game. Here you can select :
+
+
+HELP - If you require help on your current screen or panel.
+
+
+CONFIG / STATUS - A summary panel of what options you have turned on/off. These are MUSIC, COMMENTARY (match commentary), SFX (sound effects), MESSAGES (The messages panel at the end of each time period), TOOLTIPS (the hot spot text) and AUTOSAVE. (You can choose to autosave the game every match, week or month).
+
+
+SAVE - Save current game.  (All games are saved into the same directory that you have installed the game to). You will be shown a panel where you will be asked to enter a saved game name - the name of your team and the date will also be displayed on the saved game file. If you are playing multi-player then the first manager's team will be displayed together with the number of managers in the game.
+
+
+LOAD - Load a previously saved game.   (Note that if you load a game whilst playing another, the current game will not be saved)
+
+
+PLAYER CONTROL - Suspend or resume players in multi-player mode. See section on multi-players.
+
+
+RESIGN - Resign from the game in multi-player mode.
+
+
+RESTART - If you wish to cancel the game you are playing and restart from scratch with a  new team etc. then select this. Note that if you restart a game, the current game will not be saved).
+
+
+EXIT - Exit the game.
+
+In addition to the file menu, most of the menu options also appear in the file "room" itself. These are :
+CONFIG/STATUS - the tool box
+SAVE - the blue car
+LOAD - the red car
+RESTART - the restart sign
+EXIT - the door
+
+# 90	-	negotiations/transfer screen
+TRANSFERS ROOM
+
+This is where you can buy, sell and loan players. Action hot spots are :
+
+
+BINOCULARS - Extensive search program to find players you may wish to buy or loan
+
+
+CURRENT NEGOTIATIONS FOLDER - Review and reply to all current negotiations
+
+
+SHORT LIST - Add players to a short list and apply scouts to watch them
+
+
+SELL PLAYERS (Bin) - Off load unwanted squad members
+
+
+LOAN PLAYERS OUT (in/out trays)  - Loan out players to gain experience
+
+
+For more help on these items click on the item on the screen and then select help.
+
+# 91	-	teletext
+SIERRATEXT
+
+The SierraText TV allows you to look at information leagues in all six countries in the game. Accessing Sierratext from the manager's office will give you details on your current league. You can also access the other five leagues by clicking on the relevant menu option on the main menu bar.
+
+
+You can move through the menus by clicking on the headings printed on the page. You can also go direct to the main menu, results, fixtures and league tables by clicking on the coloured text at the bottom of the screen.
+
+
+For pages that have page numbers and arrows in the top right hand corner - you can click on the arrows and page through several pages of information on the same subject.
+
+
+Information that can be viewed in Sierratext includes :
+
+
+Fixtures - All league, domestic and European matches scheduled.
+
+Results - Shows all the last match day results
+
+League Tables - Shows all league tables for the domestic league and European cup. (Click on the screen to tab through all, home and away tables)
+
+Current Form - The clubs with the best current form
+
+Football Extra - Manager of the month/year, national team squads, transfers, average attendances and referee skills
+
+Player Info - Top scorers, goal assists, man of the match awards, and discipline tables.
+
+# 92	-	intro - start new game panel
+SELECT OPTION
+
+After loading the game and viewing the opening animations and screens, you will be presented with the PLEASE SELECT OPTION panel. You have three options : Manager, Coach or Load Game.  
+
+
+If you select MANAGER you will be required to control all the financial aspects of the game as well as all the coaching aspects available in the coach option. The financial aspects are stadium development, ticket pricing, catering & merchandise development and accounts. 
+
+
+If you select COACH all financial aspects are computer controlled and you can concentrate on selecting yout team, buying and selling players, training, tactics etc.
+
+
+LOAD GAME allows you to continue with any previously saved game.
+
+# 93	-	intro - select number of managers
+HOW MANY PLAYERS
+
+If you have selected a new game, you will be asked how many players you wish to play. Select between 1 and 8 managers and then click on OK. Please note that playing more than one player will require playing alternative managers on the same PC. When all managers have completed their turn, all matches will then be played.
+
+# 94	-	intro - select starting cash
+STARTING CASH 
+
+Now select the difficulty level (based on how much cash you would like start with).
+
+# 95
+
+# 96	-	intro - select league
+SELECT LEAGUE
+
+You can now choose from which league you wish to select a team. All six leagues will run concurrently, so you can buy & sell players and view performances from any team in any division in any league.
+
+# 97	-	intro - select team
+SELECT TEAM
+
+Now select which division and team you wish to play and click on OK. If you have selected more than one manager, the above process will be repeated from PLEASE ENTER NAME.
+
+# 98	-	intro - input managers name
+MANAGERS NAME
+
+Type in your manager name (first name followed by second name separated by a space).  Any previous names entered can be accessed by clicking on the down arrow on this panel.
+
+# 99
+
+# 100
+
+# 101
+
+# 102
+
+# 103	-	end of season - approach club
+
+END OF SEASON
+
+At the end of every season, you will be shown a number of panels outlining each divisional and cup winner (with runners up), teams promoted and relegated, top managers and players etc. This is only for the league your team is playing in. You also have the option to view the same details for all other leagues in the game.
+
+
+After this you have the option of continuing with your team by pressing CONTINUE or you can apply for a new job with a new team. (There will have been a number of managerial casualties during the year!) Select APPLY FOR JOB to apply for a new job. Depending on how well you did last year and which division you are currently in, the game will decide whether or not you get the job. Remember that you can apply for jobs in any one of the six leagues.
+
+# 104	-	save panel
+SAVE
+
+Save current game.  (All games are saved into the same directory that you have installed the game to). You will be shown a panel where you will be asked to enter a saved game name - the name of your team and the date will also be displayed on the saved game file. If you are playing multi-player then the first manager's team will be displayed together with the number of managers in the game.
+
+# 105	-	load panel
+LOAD 
+Load a previously saved game.   (Note that if you load a game whilst playing another, the current game will not be saved)
+
+# 106
+
+# 107
+
+# 108
+
+# 109
+
+# 110	-	print options
+PRINTING
+
+Here you have the option to print :
+
+
+TEAM LIST - Click on YOUR TEAM to print your current squad with skill ratings, or click on OTHER TEAM and then select a team to print their current squad.
+
+
+FIXTURE LIST - Click on YOUR TEAM to print your fixture list, or click on OTHER TEAM and then select a team to print their fixture list.
+
+
+SHORT LIST - Click on YOUR TEAM to print details of any player that you have on your short list.
+
+
+ACCOUNTS - Click on YOUR TEAM to print details of your current accounts.
+
+# 111	- Negotiation faxes
+BUYING PLAYERS
+
+
+When you wish to buy players you now have to go through four stages. An initial enquiry to the club, negotiations with the club over the transfer fee, whether the player is interested or not and finally negotiations with the player over wages etc.
+
+
+Each one of the stages will take some time, so you will have to approach clubs, continue to play the game and wait for their responses which can vary on how long they take to reply to you.
+
+
+APPROACH CLUB
+
+
+When you have decided to buy a player and have approached the club, you will be presented by an APPROACH CLUB fax. Click on send to approach the club.
+
+
+CLUB REJECTS APPROACH
+
+
+They may decide that the player is not for sale and will reject your offer. If you attempt to buy players that are far too good for your team, the responses will not be polite!
+
+
+CLUB REQUESTS FEE
+
+
+If the club is interested, you will receive a fax with details of how much they want for the player. You have four options : 
+VIEW - To view the players details in full
+REJECT - Reject the fee outright and end negotiations
+CONSIDER - Leave the deal outstanding while you think about it
+MAKE AN OFFER - Reply to the club and make an offer
+
+
+MAKE AN OFFER
+
+
+You can now make an offer for the player. In addition to the initial fee, you can offer them a reduced initial fee and extra cash when the player has made a certain number of appearances. You can also add players into the deal from your own squad. 
+
+
+(Note that if you choose additional cash or suggest player swaps the overall value of what you are offering must be higher than the player's value you are trying to buy).
+
+
+CLUB REJECTS OFFER
+
+
+If the club decides they are not happy at all with your offer they will end negotiations.
+
+
+CLUB REQUESTS FEE
+
+
+If the club decides that your offer is not sufficient they may reply asking for better terms. They will list what you have offered and also list what they would be prepared to accept. Again you  have four options : 
+VIEW - To view the players details in full
+REJECT - Reject the fee outright and end negotiations
+CONSIDER - Leave the deal outstanding while you think about it
+MAKE AN OFFER - Reply to the club and make an offer
+
+
+You can go back and forth and negotiate for a while but after some time they may end the negotiations if they feel that a deal will never be reached.
+
+
+CLUB ACCEPTS OFFER
+
+
+If the club is happy with your offer, you will receive a message from the club that they are happy and that the player's agent will be in touch.
+
+
+PLAYER REJECTS APPROACH
+
+
+Through the club may be happy the player may not want to move and you may receive a fax from his agent stating that he has no wish to join your club.
+
+
+PLAYER REQUESTS TERMS
+
+
+If the player may want to join you, you will now receive a fax from the player's agent outlining the deal that the player wants. You have four options : 
+VIEW - To view the players details in full
+REJECT - Reject the fee outright and end negotiations
+CONSIDER - Leave the deal outstanding while you think about it
+MAKE AN OFFER - Reply to the agent and make an offer
+
+
+MAKE AN OFFER
+
+
+If you have decided that you want the player you can now make the player an offer of the following criteria :
+
+
+His weekly wages
+His signing on fee
+Bonus for your team coming first in your division
+Bonus for winning any cup
+Bonus for getting promoted or qualifying for Europe
+Bonus for reaching the cup final
+Bonus for every time the team wins
+Bonus for every goal the player scores
+His contract length 
+
+
+Click on VIEW to view details of the deal so far.
+
+
+The player will now decide whether you are offering fair wages and signing on fee, whether the bonuses are sufficient and if the contract is length is acceptable.
+
+
+PLAYER REJECTS TERMS
+
+
+If the player is very unhappy with your offer he may reject it outright.
+
+
+PLAYER REQUESTS TERMS
+
+
+If the player/agent decides that your offer is not sufficient they may reply asking for better terms. They will list what you have offered and also list what they would be prepared to accept. Again you  have four options : 
+VIEW - To view the players details in full
+REJECT - Reject the fee outright and end negotiations
+CONSIDER - Leave the deal outstanding while you think about it
+MAKE AN OFFER - Reply to the agent and make an offer
+
+
+You can go back and forth and negotiate for a while but after some time they may end the negotiations is they feel that a deal will never be reached.
+
+
+PLAYER ACCEPTS TERMS
+
+
+If the player is happy with the deal, you will receive a player accepts terms fax and the player will join you.
+
+
+NOTES
+
+
+If you do not have enough money for the player, you cannot buy him. Make sure you have enough money or eventually you will lose the player as they will become bored with you trying to raise the cash.
+
+
+There is a transfer deadline which you will be informed about. Make sure all deals are done before this deadline arrives as the deal will be cancelled. Transfer deadlines vary from country to country so be careful.
+
+# 112	- Match screen
+MATCH SCREEN
+
+Click on the tunnel in the squad room or select START MATCH from the menu bar to begin a match or move on to the next time period if you do not have a match. If you have a match, you will now enter the tunnel that leads onto the pitch. You have three options -
+
+
+START MATCH (tunnel opening) - To start the match, INSTANT MATCH (Door to the right) - that will play the match immediately if you do not wish to view it) and CANCEL (Door to the left) - to return to the squad room.
+
+
+Click on START MATCH to enter the pitch view. There are a number of options available before you start the game.
+
+
+KICK OFF - To start the game initially
+
+
+INSTANT - If you want an instant result
+
+
+CANCEL - If you want to return to the squad room
+
+
+Individual instructions
+
+
+TEAM TALK ON - The players will use the individual instructions that you have set up in team talk in this game.
+
+IND MATCH INST - This will ignore the individual instructions from team talk and allow you to enter individual instructions for your players for this game only. Click on the button and then click on the player number you are interested in, you can view his skills or click on the button below and give him further instructions.  You can also pause the game at any time and click on the player on the pitch and apply instructions this way. (You can also click on an opposition player and view his skills)
+
+
+There are a number of other options...
+
+
+PAUSE/START - To pause and start the game.
+
+
+REPLAY - To pause the game and replay the action and save to video if you wish. Click on the standard symbols to play, pause, rewind etc. Press store to record the action to video.
+
+
+OPTIONS - Allows you to view the game in any view you wish. You can choose NORMAL or OVERHEAD view, choose to see numbers/names or both above the players heads and choose whether to display this information for just your team or both teams. You can also turn off the commentary from here.
+
+
+Speed arrows - The game can run at Norm, x2, x4, x8 and x 16 speeds. Simply click on the arrows either side of the speed indicated. The game contains commentary which can only be heard at Norm and x2 speeds only. (English, French and German only).
+
+
+SUBS - To make a substitution or change formations etc, click on SUBS. When the action pauses for a free kick or the ball goes out of play, you will automatically enter the substitutions screen which is exactly the same as TEAM TALK except you can not alter extra bonuses. You can also enter the TEAM SELECTION screen and swap players around here (though it only displays the players available to you in this particular match).
+
+
+MATCH INFORMATION
+
+
+On the left of the panel, details of goals will appear, the scorer and the time scored. On the right hand side of the panel, any incidents in the game will be reported such as goals, free kicks, offside etc and the time they occurred.
+
+
+HALF and FULL TIME PANELS
+
+
+At half time you will be presented with the half time panel. This shows details of the match, any goals, bookings, free kicks, injuries etc. You can choose to simply continue the game or select SUBS and make any changes to your team, formation or tactics. 
+
+
+The same panel also appears at full time giving you the match information for the whole match.  Click on VIEW PLAYER STATS for details on how well players performed, who won man of the match etc.
+
+
+NOTE - At half time and for the remainder of the game, the player will have a new skill which exists only for the duration of the game, called MT. This is his performance stat for this game. It will help you to see if your player is performing well or not. You can see this stat by viewing him in the team selection screen via the SUBS screen or by clicking on the player in the game.
+
+##
+

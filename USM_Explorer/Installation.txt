@@ -1,0 +1,37 @@
+1) DESCRIPTION
+
+The USM explorer has been created by developers working for the USM Community.
+The goal of this small application is to be an advanced evolution of the famous USMDE.
+
+You can edit or visualize a lot of data inside your game.
+
+Note that before beeing launched, USM98 must be running.
+
+
+2) INSTALLATION
+
+
+- Windows Vista, 7, 8.x and 10 users:
+
+Just run the USM explorer file.
+
+
+- Windows XP users (through emulation for example)
+
+Extract the content of the archive and copy its content on the desktop of Windows XP.
+Run dotnetfx.exe.
+Same thing: restart your virtual machine.
+
+Then just run the USM explorer file.
+
+
+- Windows 98 users (through emulation for example)
+
+Extract the content of the archive and copy its content on the desktop of Windows 98.
+If you don't have an extraction tool installed on your Windows 98, run winrar311.exe.
+Then extract the IE6.zip archive.
+In the extracted folder, run ie6setup.exe.
+Once the installation is done (Win98 will restart) run dotnetfx.exe.
+Same thing: restart your virtual machine.
+
+Then just run the USM explorer file.

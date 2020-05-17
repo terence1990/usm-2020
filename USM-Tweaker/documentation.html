@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>USM98-99 Tweaker user manual</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="assets/w3.css">
+        <link rel="stylesheet" type="text/css" href="assets/styles.css">
+    </head>
+    <body>
+        <h1>USM98-99 Tweaker user manual</h1>
+        <p>Version of the document: 1.3<p/>
+            <p>Applies to: USM98-99 Tweaker 1.3<p/>
+        <h2>1- Introduction</h2>
+        <h3>1.1- Disclaimer</h3>
+            <p>By using this application, you accept the below elements:</p>
+            <p>This software is free and can't be sold or make any profit of it. It is provided without any garantee and the development team
+            is not responsible of any damage you could make to your computers or third-parties ones.</p>
+        <h3>1.2- Prerequisites : how to run the tweaker</h3>
+            <p>The USM Tweaker is written in Java to make it cross-platform compatible. So you need the JRE (Java Runtime Environment)
+            installed on your machine.</p>
+            <p>To lauch the tweaker, you have two possibilities:</p>
+            <ul>
+                <li>double click on the <em>Usm9899Tweaker.jar</em> file ;</li>
+                <li>open the terminal, go to the directory the file is located in, and enter this command: <br/><em>java -jar Usm9899Tweaker.jar</em> .</li>
+                <br/>
+                Note: on Mac OS, the first time you will get a warning security message. To authorize the tweaker to run, you have to go to system -> security to authorize it. You will have to do this only the first time.
+            </ul>
+        <h3>1.3- About</h3>
+            <p>This tweaker was created with the idea to upgrade and customize the behavior of the original game.</p>
+            <p>Correct mistakes, changes values, make the game more realistic and prone to update was the main target.</p>
+            <p>You can follow the evolution of updates on these listed pages:</p>
+            <ul>
+                <li><a target="_blank" href="https://www.facebook.com/groups/394895487246798/">Ultimate Soccer Manager Update</a></li>
+                <li><a target="_blank" href="http://www.usm-community.ovh">USM Community Website</a></li>
+            </ul>
+        <h3>1.4- Credits</h3>
+        <h4>Contributors</h5>
+            <ul>
+                <li>Ande PEARSON</li>
+                <li>Christian SMITH (Pseudo)</li>
+                <li>Dane SMALLBONE</li>
+                <li>Florian DEBORTOLI</li>
+                <li>Eric COURTIAL</li>
+            </ul>
+        <h2>2- How to contribute</h2>
+        <h3>2.1- Adding/Completing/Fixing features to the Tweaker</h3>
+            <p>If you are a developer with some skills in Java or Assembly or hexadecimal editing your are free to contribute to the project.
+            You can contact the team or propose new features simply via our website or via our Facebook page (see earlier in this document)</p>
+            <p>The source code of the Tweaker is available on Github <a href="https://github.com/enrico69/usm9899tweaker">here<a>.</p>
+        <h3>2.2- Signalling a bug</h3>
+            <p>Open a ticket on the "Issues" section of the Github repository.</p>
+        <h2>3- Using the Tweaker</h2>
+        <h3>3.1- Game patching</h3>
+        <h4>3.1.1- Change the maximum quantity of player you can loan</h4>
+        <h5>Background</h5>
+            <p>In the game, you can borrow and loan a maximum of 5 players per season.</p>
+        <h5>How it works</h5>
+            <p>We changed the max value, which is an integer. Now you can define this value,
+            from 0 to 9.</p>
+        <h5>Issues</h5>
+            <p>There is not registered issue yet.</p>
+        <h4>3.1.2- Enable long-term loans</h4>
+        <h5>Background</h5>
+            <p>In the game, when you want to loan a player to a squad managed by the computer,
+            you can do it for a maximum period of 8 to 10 weeks. It is very unrealistic, as it is common
+            in the real world to loan a player for the whole season</p>
+        <h5>How it works</h5>
+            <p>We modified all the differents cases of the loan negociation process. Now, each time you want to loan
+            a loan-listed player, his squad will accept. You can offer a loan for a maximum of 99 weeks.</p>
+        <h5>Issues</h5>
+            <p>There is not registered issue yet.</p>
+        <h4>3.1.3- Change the starting year</h4>
+        <h5>Background</h5>
+            <p>This request came for contributors who wanted to create updates, with the current year.</p>
+        <h5>How it works</h5>
+            <p>We replaced the starting year, the following year and the reference date for young players.</p>
+        <h5>Issues</h5>
+            <ul>
+                <li>some club's history, visible in the chairman office, will be wrong ;</li>
+                <li>for obvious reasons, you could face some troubles if you play games with different starting year in the same installation of USM.</li>
+            </ul>
+        <h4>3.1.4- Enable cheat menu access</h4>
+        <h5>Background</h5>
+            <p>While working on the game, we, with happy coincidence, found the footprints of a hidden cheat menu.</p>
+            <p>At the beginning, it was not clear: was it a development purpose tool? A developper joke? Or a real hidden menu?
+            It was totally unclear, as nobody seems to have noticed it since the release of the game in 1998</p>
+            <p>Today we are happy to announce that you can reach this menu easily.</p>
+        <h5>How it works</h5>
+            <p>We didn't have enough time to completely reverse the process, so we ran through the field directly to reverse the game
+            behavior at one special point. If you active the cheat menu, it will be visible at the creation of a new game. 
+            We don't know if in the normal behavior it was visible elsewhere.</p>
+            <p>The cheat menu presents three elements:</p>
+            <ul>
+                <li>to succeed every transfert: every listed player will accept to join your team ;</li>
+                <li>start with more money ;</li>
+                <li>access to the team editor before starting the game.</li>
+            </ul>
+        <h5>Issues</h5>
+            <p>There is not registered issue yet.</p>
+        <h4>3.1.5- Enable or disable transferts</h4>
+        <h5>Background</h5>
+            <p>One of the game more unrealistic feature is that transferts are possible during almost the whole season.</p>
+            <p>In the real world, that's not the case. In the game it has some drawbacks: some teams change their squad a lot during the season,
+                and even sometimes some players play for 3 or 4 differents teams in a season. Now, you are free to enable/disable transferts during a game whenever you want.</p>
+        <h5>How it works</h5>
+            <p>We edited some conditions to allow or disallow transferts.</p>
+        <h5>Issues</h5>
+            <p>There is not registered issue yet.</p>
+		<h4>3.1.6- Enable or disable the possibility to be fired</h4>
+        <h5>Background</h5>
+            <p>This feature allows you to not to be fired when having bad or unexpected results on the field... or in the bank. Note: it does not cover for illegal activities.</p>
+        <h5>How it works</h5>
+            <p>We edited some conditions disable the mecanism that fire the player.</p>
+        <h5>Issues</h5>
+            <p>There is not registered issue yet.</p>
+        <h4>3.1.7- Change the quantity of promoted and relegated teams in the french league and the italian league</h4>
+        <h5>Background</h5>
+            <p>This feature allows you to change how many teams are promoted and relegated in these championships. It allows to correct the data. For example in France, even in 1998, there were 3 teams directly relegated/promoted.</p>
+        <h5>How it works</h5>
+            <p>We edited some offsets.</p>
+        <h5>Issues</h5>
+            <p>There is not registered issue yet.</p>   
+        <h4>3.1.8- Rename European cups</h4>
+        <h5>Background</h5>
+            <p>This feature allows you to rename the "European Cup" to "Champion's L" and the "UEF A Cup" to "Europa L" .</p>
+        <h5>How it works</h5>
+            <p>We edited some offsets. We were limited both by the original size available in memory and the space available on screen.</p>
+        <h5>Issues</h5>
+            <p>There is not registered issue yet.</p> 
+        <h4>3.1.9- Rename Leagues</h4>
+        <h5>Background</h5>
+            <p>This feature allows you to rename the french, spanish, english and scottish leagues to their 2017-2018 names .</p>
+        <h5>How it works</h5>
+            <p>We used unused strings (eg the italian Serie C) to add new leagues names. Then
+            we changed many dozen of memory calls to be able to use such strings. Infortunately,
+         there was not enough "room" to do a perfect job, we had to deal with the game limitations so sometimes strings are diminutives. The scottish premiership share its name with the british premier league.</p>
+        <h5>Issues</h5>
+            <p>There is not registered issue yet.</p>  
+        <h4>3.1.10- Enable the looser manager feature (BETA)</h4>
+        <h5>Background</h5>
+            <p>When you do a very bad season with your club, and want to change to another one, the most part of the clubs who look for a new coach will reject your application.
+            This feature of the tweaker is supposed to make every of your application successfull.
+            </p>
+        <h5>How it works</h5>
+            <p>We changed some memory calls.</p>
+        <h5>Issues</h5>
+            <p>There is not registered issue yet.</p>               
+    </body>
+</html>

@@ -25,7 +25,7 @@ The USM 98-88 EXE file has had its hashes edited according [this spreadsheet](ht
 
 ## Compatibility
 
-* Download Repo, put on your desktop or something
+* Download this repository, extract and put in a folder on your desktop or something
 * Boot up the XP image in VMWare or Parallels
 * Make sure Desktop is a shared drive to your running Vmware / Parallels image in Vmware / Parallels seetings 
 * In the repo, DxWnd EXE is included along with a config file for DxWnd. Open DxWnd.exe in XP and import the USM98-99.dxw file.

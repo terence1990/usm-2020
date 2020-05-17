@@ -17,9 +17,9 @@ The USM 98-88 EXE file has had its hashes edited according [this spreadsheet](ht
 
 # Getting the damn game working on a Mac
 
-Use the following image for VMWare: COMING SOON
-
-Using the following image for Parallels: COMING SOON
+* Use a Windows XP image
+* Use the following image for VMWare: COMING SOON
+* Using the following image for Parallels: COMING SOON
 
 * Download Repo, put on your desktop or something
 * Boot up the XP image in VMWare or Parallels

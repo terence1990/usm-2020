@@ -3,6 +3,7 @@
 This repo includes the game and tools such as:
 
 | Tool | Description |
+|---|---|
 | USM Data Editor (USDMDE) | Edit Teams and Players |
 | USM Explorer | Find Wonderkids in your game save |
 | USM Tweaker | Change the starting Year and turn on cheats |

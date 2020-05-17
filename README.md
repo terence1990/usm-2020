@@ -13,7 +13,7 @@ More information on tools a datasets visit the [USM community](http://usm.dynami
 
 The USM 98-88 game, USM Data Editor and USM Explorer have to be run on Windows. USM Tweaker can be run on Mac as it is just a Java file, as you can just select the exe file.
 
-The USM 98-88 EXE file has had its hashes edited according [https://docs.google.com/spreadsheets/d/17TogN3t7KEJG2iqTcW-Yw57upIHOR9e5NWLWhP6Dsq8/edit?fbclid=IwAR06JqrBO7tsmDdjwzfzbQGSjMY1l_-4p8SrMlgV5sCH8OSgP0IkvOCJCbA#gid=427331404](this spreadsheet).
+The USM 98-88 EXE file has had its hashes edited according [this spreadsheet](https://docs.google.com/spreadsheets/d/17TogN3t7KEJG2iqTcW-Yw57upIHOR9e5NWLWhP6Dsq8/edit?fbclid=IwAR06JqrBO7tsmDdjwzfzbQGSjMY1l_-4p8SrMlgV5sCH8OSgP0IkvOCJCbA#gid=427331404).
 
 # Getting the damn game working on a Mac
 
